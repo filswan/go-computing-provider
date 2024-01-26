@@ -1,3 +1,4 @@
+The repository has been moved to a new organization and the latest progress is here，**[https://github.com/swanchain/go-computing-provider](https://github.com/swanchain/go-computing-provider)**
 # Computing Provider
 [![Discord](https://img.shields.io/discord/770382203782692945?label=Discord&logo=Discord)](https://discord.gg/Jd2BFSVCKw)
 [![Twitter Follow](https://img.shields.io/twitter/follow/swan_chain)](https://twitter.com/swan_chain)
